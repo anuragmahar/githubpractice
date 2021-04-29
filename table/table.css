@@ -1,0 +1,42 @@
+table {
+    margin-top: 60px;
+    margin-left: 200px;
+    width: 50%;
+    border: 1.5px solid #e8e8e8;
+    border-collapse: collapse;
+   
+   
+  }
+  
+  th, td {
+ 
+    text-align: center;
+    padding: 5px;
+    border : 1px dotted rgba(0, 0, 0, 0.308)
+  }
+th,td{
+    border-style: dotted;
+    padding: 10px;
+}
+th#a{
+    color: #fc3004;
+    text-align: center;
+    font-weight: bold;
+}
+    
+.b{
+    color: #041efc;
+    text-align: center;
+}
+.c{
+    color: #d604fc;
+    text-align: center;
+    font-style: italic;
+    
+}
+#ab{
+    font-weight: bold;
+}
+.bold{
+    font-weight: 800;
+}
